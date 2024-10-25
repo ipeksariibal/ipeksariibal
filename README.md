@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ipeksariibal
-- 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning Linux and Python
+- 👋 Hi, I’m Ipek.
+- 👀 I’m interested in computational biology and in silico drug design.
+- 🌱 I’m currently learning python and molecular modelling.
 
 
 <!---
